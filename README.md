@@ -3,13 +3,13 @@ RSS tags for Atomic
 <details>
 <summary>Table of Contents</summary>
 
-* [RSS Elements](https://github.com/ModelRocket/decanter/wiki/Atomic-RSS-Namespace#rss-elements)
-* * [\<channel\>](https://github.com/ModelRocket/decanter/wiki/Atomic-RSS-Namespace#channel)
-* * [\<atomic:series\>](https://github.com/ModelRocket/decanter/wiki/Atomic-RSS-Namespace#atomicSeries)
-* * [\<atomic:subscription\>](https://github.com/ModelRocket/decanter/wiki/Atomic-RSS-Namespace#atomicSubscription)
-* * [\<atom:link\>](https://github.com/ModelRocket/decanter/wiki/Atomic-RSS-Namespace#atomLink)
-* * [\<atomic:episode\>](https://github.com/ModelRocket/decanter/wiki/Atomic-RSS-Namespace#atomicEpisode)
-* [HTTP Query Parameters](https://github.com/ModelRocket/decanter/wiki/Atomic-RSS-Namespace#http-query-parameters)
+* [RSS Elements](https://github.com/AtomicPublishing/atomic-rss#rss-elements)
+* * [\<channel\>](https://github.com/AtomicPublishing/atomic-rss#channel)
+* * [\<atomic:series\>](https://github.com/AtomicPublishing/atomic-rss#atomicSeries)
+* * [\<atomic:subscription\>](https://github.com/AtomicPublishing/atomic-rss#atomicSubscription)
+* * [\<atom:link\>](https://github.com/AtomicPublishing/atomic-rss#atomLink)
+* * [\<atomic:episode\>](https://github.com/AtomicPublishing/atomic-rss#atomicEpisode)
+* [HTTP Query Parameters](https://github.com/AtomicPublishing/atomic-rss#http-query-parameters)
 </details>
 
 Abstract
